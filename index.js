@@ -1,5 +1,5 @@
 require('dotenv').config();
-const fetch = require("isomorphic-fetch");
+//const fetch = require("isomorphic-fetch");
 
 // Print out value of API key stored in .env file
 //console.log(process.env.GIPHY_API_KEY)
